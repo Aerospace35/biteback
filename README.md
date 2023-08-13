@@ -25,3 +25,5 @@ data = {'Textbox-1':person.firstName,'Textbox-2':person.lastName,'Textbox-3':per
 
 ```
 5. Run and Attack!
+
+> this tool was responsible for the spamming of over 1,800,000 bogus entries into the Missouri Attorney General's anti-trans snitch line. While for legal reasons this is not officially endorsed, it shows the power of this tool, especially seeing as the combined usage of several instances managed to disable the entire website. Please be ethical and mindful while using this dangerous tool.
